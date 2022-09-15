@@ -1,0 +1,58 @@
+[
+    {
+        "jobRole":"Driver",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"5000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/ZgNJRFg/Vector.png"
+    },
+    {
+        "jobRole":"Accountent",
+        "location":" Paris, France",
+        "company":"Food hub",
+        "salary":"15000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/dgD8rKH/Vector-1.png"
+    },
+    {
+        "jobRole":"Accountent",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"5000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/qynLKg9/Vector-4.png"
+    },
+    {
+        "jobRole":"Gate Man",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"7000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/ZgNJRFg/Vector.png"
+    },
+    {
+        "jobRole":"Accountent",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"5000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/qynLKg9/Vector-4.png"
+    },
+    {
+        "jobRole":"Accountent",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"5000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/ZgNJRFg/Vector.png"
+    },
+    {
+        "jobRole":"Accountent",
+        "location":"Paris, France",
+        "company":"cattle house",
+        "salary":"5000",
+        "post":"2 hours ago",
+        "logo":"https://i.ibb.co/ZgNJRFg/Vector.png"
+    }
+]
