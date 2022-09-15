@@ -9,13 +9,13 @@ const Navbar = () => {
             <h1 className="font-bold text-2xl">AK FARM</h1>
           </div>
 
-          <div class="md:flex md:items-center md:gap-12 lg:gap-32">
+          <div class="md:flex md:items-center md:gap-8 lg:gap-32">
             <nav class="hidden  md:block" aria-labelledby="header-navigation">
               <h2 class="sr-only" id="header-navigation">
                 Header navigation
               </h2>
 
-              <ul class="flex items-center text-sm gap-10">
+              <ul class="flex items-center text-sm lg:gap-10 gap-5">
                 <li>
                   <a
                     class="text-gray-900 transition hover:text-gray-900/75"
