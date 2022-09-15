@@ -86,7 +86,7 @@ const LatestJob = () => {
       {/* latest job table */}
       <div class="overflow-x-auto">
         <table class="min-w-full text-sm divide-y-2 divide-gray-200">
-          <thead className="bg-[#4B4B4B] h-[85px] text-white">
+          <thead className="bg-[#4B4B4B] lg:h-[85px] h-[70px] text-white">
             <tr>
               <th class="px-4 py-2 font-medium text-left whitespace-nowrap">
                 Job Role
@@ -106,7 +106,7 @@ const LatestJob = () => {
             </tr>
           </thead>
 
-          <tbody class="divide-y-2 divide-[#4F4F4FA6]">
+          <tbody class="divide-y-2 divide-[#9494946b]">
             {jobs?.map((job) => (
               <SingleJob job={job} />
             ))}
