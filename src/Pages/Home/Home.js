@@ -4,6 +4,7 @@ import Faq from "../../Components/Faq/Faq";
 import GetInTouch from "../../Components/GetInTouch/GetInTouch";
 import LatestJob from "../../Components/LatestJob/LatestJob";
 import Navbar from "../../Components/Navbar/Navbar";
+import Stats from "../../Components/Stats/Stats";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <LatestJob />
       <Faq />
       <GetInTouch />
+      <Stats />
     </div>
   );
 };
