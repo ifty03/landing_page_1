@@ -68,7 +68,7 @@ const LatestJob = () => {
         Latest Job
       </h2>
       {/* job filter div */}
-      <div className="flex justify-end gap-8 my-12">
+      <div className="flex justify-end gap-3 md:gap-8 my-12">
         <div className="flex items-center gap-2">
           <label htmlFor="part-time">Part time</label>
           <input type="checkbox" name="part-time" id="part-time" />
